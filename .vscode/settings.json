@@ -1,0 +1,13 @@
+{
+  "liveServer.settings.port": 5501,
+  "css.styleSheets": [
+    "/style.css",
+    "style.css",
+    "${fileBasenameNoExtension}.css"
+  ],
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+},
+}
